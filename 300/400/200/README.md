@@ -7,4 +7,4 @@ We'll go for "Cloud Security" and "Web Security" respectively.
 | Theme | Description |
 | -- | -- |
 | Cloud Security | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/9/views/1?pane=issue&itemId=18547675 |
-| web Security | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/16/views/1?layout=board&pane=issue&itemId=28191230 |
+| Web Security | See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/16/views/1?layout=board&pane=issue&itemId=28191230 |
