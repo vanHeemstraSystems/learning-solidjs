@@ -7,6 +7,8 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
+Based on "SolidJS Tutorial" at https://www.solidjs.com/tutorial/introduction_basics
+
 Can be read as "Learning - SolidJS" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
 
 Can be browsed as "Learning - SolidJS" at https://vanheemstrasystems.github.io/learning-solidjs/
