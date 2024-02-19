@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Cyber Security"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Cyber Security",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-cyber-security-use-cases/"
+  },
+  {
     "objectID": "initiative.html",
     "href": "initiative.html",
     "title": "Initiative",
@@ -12,33 +40,5 @@
     "title": "Themes",
     "section": "",
     "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-cyber-security-themes/"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Cyber Security",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nLearning Cyber Security"
-  },
-  {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-cyber-security-use-cases/"
   }
 ]
