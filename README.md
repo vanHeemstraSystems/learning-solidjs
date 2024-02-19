@@ -11,7 +11,7 @@ Can be read as "Learning - SolidJS" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPk
 
 Can be browsed as "Learning - SolidJS" at https://vanheemstrasystems.github.io/learning-solidjs/
 
-Roadmap to Learning SolidJS at https://roadmap.sh/solidjs
+Roadmap to Learning SolidJS at https://roadmap.sh/javascript
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
