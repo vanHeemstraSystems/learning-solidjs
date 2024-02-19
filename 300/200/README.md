@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![Learning-Cyber-Security_Use-Cases](https://github.com/vanHeemstraSystems/learning-cyber-security/assets/1499433/28961560-e3a9-4b33-833b-6701971bafb9)
+![Learning-SolidJS_Use-Cases](https://github.com/vanHeemstraSystems/learning-solidjs/assets/1499433/81c6b499-4d38-46aa-9ccc-9da5ee3e74d0)
