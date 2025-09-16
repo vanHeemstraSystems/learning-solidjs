@@ -3,6 +3,8 @@
 learning-solidjs
 # Learning SolidJS
 
+> SolidJS: A reactive JavaScript framework for building performant web apps.
+
 Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
